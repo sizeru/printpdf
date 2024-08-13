@@ -14,7 +14,7 @@ keywords = ["pdf", "gui", "graphics", "wkhtmltopdf"]
 categories = ["gui"]
 exclude = ["./assets/*", "./doc/*", "./examples/*"]
 autoexamples = false
-edition = "2021"
+edition = "2018"
 
 [dependencies]
 # minimum dependencies
